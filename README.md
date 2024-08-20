@@ -30,15 +30,15 @@ Piscine C 42Perpignan
 | ----------------------------------------------------------------- | ---------- |
 | [SHELL00](https://github.com/Benjamin-poisson/42-piscine/tree/main/S00) | 100/100 ✅ |
 | [SHELL01](https://github.com/Benjamin-poisson/42-piscine/tree/main/S01) | 70/100 ✅ |
-| [C00](https://github.com/Benjamin-poisson/42-piscine/tree/main/C00)   | 90/100 ✅ |
+| [C00](https://github.com/Benjamin-poisson/42-piscine/tree/main/C00)   | 85/100 ✅ |
 | [C01](https://github.com/Benjamin-poisson/42-piscine/tree/main/C01) | 100/100 ✅ |
-| [C02](https://github.com/Benjamin-poisson/42-piscine/tree/main/C02) | 100/100 ✅ |
-| [C03](https://github.com/Benjamin-poisson/42-piscine/tree/main/C03) | ?/100 ✅ |
-| [C04](https://github.com/Benjamin-poisson/42-piscine/tree/main/C04) | ?/100 ✅ |
-| [C05](https://github.com/Benjamin-poisson/42-piscine/tree/main/C05) | 90/100 ✅ |
-| [C06](https://github.com/Benjamin-poisson/42-piscine/tree/main/C06) | ?/100 ✅ |
-| [C07](https://github.com/Benjamin-poisson/42-piscine/tree/main/C07) | ?/100 ✅ |
-| [C08](https://github.com/Benjamin-poisson/42-piscine/tree/main/C08) | ?/100 ✅ |
+| [C02](https://github.com/Benjamin-poisson/42-piscine/tree/main/C02) | 85/100 ✅ |
+| [C03](https://github.com/Benjamin-poisson/42-piscine/tree/main/C03) | 75/100 ✅ |
+| [C04](https://github.com/Benjamin-poisson/42-piscine/tree/main/C04) | 100/100 ✅ |
+| [C05](https://github.com/Benjamin-poisson/42-piscine/tree/main/C05) | 80/100 ✅ |
+| [C06](https://github.com/Benjamin-poisson/42-piscine/tree/main/C06) | 100/100 ✅ |
+| [C07](https://github.com/Benjamin-poisson/42-piscine/tree/main/C07) | 60/100 ✅ |
+| [C08](https://github.com/Benjamin-poisson/42-piscine/tree/main/C08) | 100/100 ✅ |
 | [C09](https://github.com/Benjamin-poisson/42-piscine/tree/main/C09) | 100/100 ✅ |
 | [C10](https://github.com/Benjamin-poisson/42-piscine/tree/main/C10) | NA/100 ❌ |
 | [C11](https://github.com/Benjamin-poisson/42-piscine/tree/main/C11) | NA/100 ❌ |
