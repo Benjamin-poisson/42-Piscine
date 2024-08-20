@@ -47,7 +47,7 @@ Piscine C 42Perpignan
 | [RUSH00](https://github.com/Benjamin-poisson/42-piscine/tree/main/rush00) | 110/100 ✅ |
 | [RUSH01](https://github.com/Benjamin-poisson/42-piscine/tree/main/rush01) | 0/100 ❌ |
 | [RUSH02](https://github.com/Benjamin-poisson/42-piscine/tree/main/rush02) | 10/100 ❌ |
-| [BSQ](https://github.com/Benjamin-poisson/42-piscine/tree/main/bsq) | 25/100 ❌ |
+| [BSQ](https://github.com/Benjamin-poisson/42-piscine/tree/main/bsq) | 23/100 ❌ |
 | [EXAM00](https://github.com/Benjamin-poisson/42-piscine/tree/main/Exam00) | 100/100 ✅ |
 | [EXAM01](https://github.com/Benjamin-poisson/42-piscine/tree/main/Exam01) | 100/100 ✅ |
 | [EXAM02](https://github.com/Benjamin-poisson/42-piscine/tree/main/Exam02) | 90/100 ✅ |
