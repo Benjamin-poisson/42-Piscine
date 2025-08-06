@@ -40,10 +40,10 @@ Piscine C 42Perpignan
 | [C07](https://github.com/Benjamin-poisson/42-piscine/tree/main/C07) | 60/100 ✅ |
 | [C08](https://github.com/Benjamin-poisson/42-piscine/tree/main/C08) | 100/100 ✅ |
 | [C09](https://github.com/Benjamin-poisson/42-piscine/tree/main/C09) | 100/100 ✅ |
-| [C10](https://github.com/Benjamin-poisson/42-piscine/tree/main/C10) | NA/100 ❌ |
-| [C11](https://github.com/Benjamin-poisson/42-piscine/tree/main/C11) | NA/100 ❌ |
-| [C12](https://github.com/Benjamin-poisson/42-piscine/tree/main/C12) | NA/100 ❌ |
-| [C13](https://github.com/Benjamin-poisson/42-piscine/tree/main/C13) | NA/100 ❌ |
+| [C10](https://github.com/Benjamin-poisson/42-piscine/tree/main/C10) | NA/100  |
+| [C11](https://github.com/Benjamin-poisson/42-piscine/tree/main/C11) | NA/100  |
+| [C12](https://github.com/Benjamin-poisson/42-piscine/tree/main/C12) | NA/100  |
+| [C13](https://github.com/Benjamin-poisson/42-piscine/tree/main/C13) | NA/100  |
 | [RUSH00](https://github.com/Benjamin-poisson/42-piscine/tree/main/rush00) | 110/100 ✅ |
 | [RUSH01](https://github.com/Benjamin-poisson/42-piscine/tree/main/rush01) | 0/100 ❌ |
 | [RUSH02](https://github.com/Benjamin-poisson/42-piscine/tree/main/rush02) | 10/100 ❌ |
@@ -58,7 +58,7 @@ Piscine C 42Perpignan
 #### Legend
 - ✅100%  [Pass]
 - ❌0%    [Not pass]
-- ❌NA%   [Not done]
+-  NA%   [Not done]
 - ⛔-42%  [Forbiden fonction / Cheat]
 ----
 
